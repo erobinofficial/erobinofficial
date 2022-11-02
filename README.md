@@ -53,4 +53,4 @@
 
 
 ## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/erobinofficial/erobinofficial/blob/output/github-contribution-grid-snake.gif)
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
